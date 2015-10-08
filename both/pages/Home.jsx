@@ -2,8 +2,8 @@ Home = React.createClass({
   render() {
     return (
       <div className={classNames('Home', 'foo', 'bar')} >
-        <ThinksCode />
-        <ThinksSkate />
+        <ThinksHeCan topic="code" />
+        <ThinksHeCan topic="skate" />
       </div>
     );
   }
