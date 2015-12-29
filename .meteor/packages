@@ -4,15 +4,11 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-react
-meteorhacks:npm
-npm-container
-cosmos:browserify
-accounts-password
-accounts-ui
-kadira:flow-router
-kadira:reaktor
-standard-minifiers
+insecure
+avital:react-in-blaze
+iron:router
+ryw:blog
+maxharris9:classnames
 meteor-base
 mobile-experience
 mongo
@@ -26,5 +22,5 @@ random
 ejson
 spacebars
 check
-ecmascript
+seba:minifiers-autoprefixer
 fourseven:scss

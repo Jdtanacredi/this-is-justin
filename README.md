@@ -1,21 +1,13 @@
 
-#### Packages
+### Example integration of React + Iron Router in Meteor
 
-- React (MDG preview)
-- Flow Router
-- React Layout
-- Accounts Password
-- Accounts UI (with React wrapper)
-- meteorhacks:npm
-- cosmos:browserify
-- Removes insecure
-- Removes autopublish
+Uses `avital:react-in-blaze` & `iron:router`.
 
-#### Components
-- List coming soon.
+This is a super simple contrived proof of concept and should only serve to get your bearings.
 
-####Pages/Routes
 
-- Home, About
-- Not Found
-- Main Layout
+#### Get started
+
+- clone repo
+- cd into repo
+- `meteor`
