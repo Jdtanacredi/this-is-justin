@@ -1,11 +1,18 @@
-.fullPageSection {
+.full-page-section {
   height: calc(100vh - 20px);
+  border-bottom: 1px solid red;
 }
 
-.codeSection {
+.this-is-header {
+  position: fixed;
+  top: 50px;
+  left: 30px;
+}
+
+.code-section {
   // background: blue;
 }
 
-.skateSection {
+.skate-section {
   // background: red;
 }
